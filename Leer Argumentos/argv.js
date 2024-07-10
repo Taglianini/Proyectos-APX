@@ -9,12 +9,12 @@ function parserArgumentos(argv) {
     });
   
     return respuesta;
+    
   }
   
-  function main() {}
+  function main() {
   const soloLosArgumentos = process.argv.slice(2);
-  
   const objeto = parserArgumentos(soloLosArgumentos);
-  
   console.log(objeto);
+  }
   main();
