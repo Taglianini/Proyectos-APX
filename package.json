@@ -1,0 +1,11 @@
+{
+  "name": "proyectos-apx",
+  "version": "1.0.0",
+  "description": "bueno es un camino largo",
+  "main": "OrdenadordeArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
