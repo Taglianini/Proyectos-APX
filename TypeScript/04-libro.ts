@@ -14,10 +14,10 @@ class Libro {
       return antiguedad;
         // [Tu código para devolver la antiguedad basada en la propiedad this.añoPublicacion]
     }
-}
+} 
 
 // Creando instancias de la clase Libro
-const libro1 = new Libro("Cien años de soledad", "Gabriel García Márquez", 1967);
+const libro1 = new Libro("Cien años de soledad", "Gabriel García Martinez", 1967);
 const libro2 = new Libro("Padre pobre, Padre rico", "Lautarito", 1969);
 
 // Usando el método getAntiguedad y mostrando detalles de los libros
