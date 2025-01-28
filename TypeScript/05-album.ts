@@ -91,9 +91,9 @@ class Album { // Definir la clase Album
      }
    }
    
-   function main() {
+  //function main() {
      // Ejecutar el test
-     testClaseBanda();
-   }
+     //testClaseBanda();
+   //}
    
    main();
